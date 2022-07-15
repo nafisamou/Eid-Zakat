@@ -1,0 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&family=Merriweather+Sans:ital@1&family=Overpass&family=Poppins&family=Roboto+Slab&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:'Roboto Slab', serif; ;
+}
